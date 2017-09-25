@@ -1,8 +1,0 @@
-
-https://news.ycombinator.com/item?id=15249289
-
-https://jaxenter.com/energy-efficient-programming-languages-137264.html
-
-https://www.reddit.com/r/rust/comments/704c27/rust_is_one_of_the_most_energy_efficient_languages/
-
-https://www.reddit.com/r/programming/comments/702wuj/energy_efficiency_across_programming_languages/
